@@ -27,6 +27,8 @@
 #### 📗 Conhecimentos técnicos:<h3>  
   ⚡   *Conceitos e métodos de testes de Softwares manuais e automatizados(UI-Web e API).*
   
+  ⚡   *Scrum Framework*
+  
   ⚡   *BDD e Gherkin.*
  
   ⚡   *JavaScript.*  
@@ -35,6 +37,8 @@
 ⚡ *Cypress.*
   
 ⚡ *VS Code.*
+ 
+ ⚡ *Azure.*
   
 ⚡ *SQL Server 2019 - DML*
   
