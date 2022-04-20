@@ -43,7 +43,7 @@
  
 #### 🚀 *Estudando/Aprofundando atualmente: <h4>*
   
-⚡ *API*
+⚡ *API Rest*
   
 ⚡ *JavaScript*
   
