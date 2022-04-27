@@ -49,6 +49,5 @@
   
 ⚡ *API Rest*
   
-⚡ *JavaScript*
   
  
