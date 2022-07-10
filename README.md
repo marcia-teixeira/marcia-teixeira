@@ -1,4 +1,4 @@
->### ✋ *Olá, eu sou a Márcia Teixeira, Associate Developer na Ambev Tech e*  <h3>
+>### ✋ *Olá, eu sou a Márcia Teixeira, Software Quality Assurance Analisty (QA) na Ambev Tech e*  <h3>
 >### *Quality assurance (QA) em formação. <h3>*
   
  <div align="left">
@@ -48,6 +48,7 @@
 #### 🚀 *Estudando/Aprofundando atualmente: <h4>*
   
 ⚡ *API Rest*
+⚡ *Microsserviços*
   
   
  
