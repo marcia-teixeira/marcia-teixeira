@@ -1,5 +1,4 @@
->### ✋ *Olá, eu sou a Márcia Teixeira, Software Quality Assurance Analisty (QA) na Ambev Tech e*  <h3>
->### *Quality assurance (QA) em formação. <h3>*
+>### ✋ *Olá, eu sou a Márcia Teixeira, Software Quality Assurance Analisty (QA) na Ambev Tech*<h3>
   
  <div align="left">
   <a href="https://www.linkedin.com/in/marciateixeirab/">
