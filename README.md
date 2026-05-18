@@ -133,7 +133,8 @@
 
 ## 💡 Filosofia Profissional
 
-*"Qualidade não é apenas encontrar bugs, é garantir que o software entregue agregue valor real aos usuários. Acredito em testes bem arquitetados, automação inteligente e na importância de estar sempre aprendendo e compartilhando conhecimento com a comunidade."*
+*"Qualidade não se resume apenas a etapa de testes, a qualidade deve estar presente em todas as etapas do ciclo de desenvolvimento. É preciso atuar de forma colaborativa com todo o time,e não apenas na detecção mas principalmente na prevenção
+de bugs, na antecipação de riscos, na análise de causa-raizes, gestão de métricas de qualidade e na melhoria contínua das nossas entregas e processos. A qualidade é uma responsabilidade de todo o time, o conceito de time inteiro é essencial para a evolução da qualidade de software. Acredito em testes bem arquitetados, automação estratégica e na importância de estar sempre aprendendo e compartilhando conhecimento com a comunidade."*
 
 ---
 
