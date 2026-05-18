@@ -6,29 +6,30 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marciateixeirab/">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=marcia-teixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-teixeira&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcia-teixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcia-teixeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div style="display: inline_block">
+<div align="center">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VS Code" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="K6" height="40" width="50" src="https://avatars.githubusercontent.com/u/26308470?s=200&v=4">
+  <img align="center" alt="K6" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
 </div>
 
 ---
 
 ## 📞 Conecte-se Comigo
 
-<div>
+<div align="center">
   <a href="mailto:marciateixeira.b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marciateixeirab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/marcia-teixeira" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -57,6 +58,7 @@
 - ✅ Agile Testing & Metodologias Ágeis
 
 ### 💻 Linguagens & Frameworks
+
 | Linguagem | Nível |
 |---|---|
 | **JavaScript** | Intermediário |
@@ -64,6 +66,7 @@
 | **SQL** | Intermediário |
 
 ### 🔧 Ferramentas & Plataformas
+
 | Ferramenta | Nível | Descrição |
 |---|---|---|
 | **Cypress** | Avançado | Automação de testes UI/Web |
@@ -75,6 +78,7 @@
 | **Git** | Intermediário | Controle de versão |
 
 ### 🤝 Soft Skills
+
 | Competência | Descrição |
 |---|---|
 | 🎯 **Atenção ao Detalhe** | Identificação meticulosa de bugs e inconsistências |
