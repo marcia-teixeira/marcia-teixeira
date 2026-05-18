@@ -146,4 +146,4 @@ de bugs, na antecipação de riscos, na análise de causa-raizes, gestão de mé
 
 ---
 
-**Desenvolvido com ❤️ por Márcia Teixeira | Última atualização: Maio 2026**
+** por Márcia Teixeira | Última atualização: Maio 2026**
